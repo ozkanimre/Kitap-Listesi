@@ -2,3 +2,5 @@
 #Sade JavaScript ve lolcalStorage kullanılarak yapılmıştır 
 <br>
 #Eklenecek : kitap silme işlemi , favori kitap seçme 
+
+![](app.png)
