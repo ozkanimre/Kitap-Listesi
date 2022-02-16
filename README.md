@@ -1,6 +1,5 @@
-#book list uygulaması okuduğunuz kitapları ve okumak isteğiniz kitapların listesini tutar <br>
-#Sade JavaScript ve lolcalStorage kullanılarak yapılmıştır 
+#book list app keep list of your rated read book and books you want to read  
 <br>
-#Eklenecek : kitap silme işlemi , favori kitap seçebilme
+#Only JavaScript used , no sql just localStorage
 
 ![](app.png)
