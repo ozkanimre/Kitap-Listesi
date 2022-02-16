@@ -1,4 +1,4 @@
-#book list app keep list of your rated read book and books you want to read  
+#with this web app you can rate your books that you read also books you want to read near future ( hopefully :) )
 <br>
 #Only JavaScript used , no sql just localStorage
 
